@@ -8,7 +8,7 @@ One of the standout features of this application is ChatPDF, which utilizes Lang
 
 The live version of the app is hosted on Streamlit Sharing and can be accessed at the following URL:
 
-
+https://trainwithpdf-jfniy20uuuc.streamlit.app/
 
 ## Features 🎉
 
